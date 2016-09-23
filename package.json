@@ -29,6 +29,7 @@
     "mimoza": "^1.0.0",
     "mkdirp": "~ 0.5.1",
     "pako": "~ 0.2.8",
+    "pug": "^2.0.0-beta6",
     "shellwords": "~ 0.1.0",
     "source-map": "~ 0.5.3"
   },
